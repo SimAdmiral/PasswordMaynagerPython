@@ -1,4 +1,4 @@
-# PasswordMaynagerPython
+# PasswordManagerPython
 
 This is simple password manager made in Python
 
